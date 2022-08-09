@@ -1,5 +1,4 @@
-https://github.com/dataprofessor/streamlit_freecodecamp/blob/main/app_7_classification_iris/iris-ml-app.py
-mport streamlit as st
+import streamlit as st
 import pandas as pd
 from sklearn import datasets
 from sklearn.ensemble import RandomForestClassifier
